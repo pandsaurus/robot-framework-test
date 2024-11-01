@@ -18,7 +18,9 @@ An sample set of test using robot framework
 
 # TODO
 1. Update to use latest robot framework
-2. note version used for documentation
+2. Update code structure
+3. Update documentation
+4. note version used for documentation
     - python version
     - robot framework version
     - pyyaml
