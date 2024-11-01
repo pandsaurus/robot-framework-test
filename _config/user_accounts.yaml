@@ -1,0 +1,7 @@
+valid_acc :
+  uname : lourdes100@test.com
+  pwd : Test123!
+
+invalid_acc :
+  uname : lourde10@mail.com
+  pwd : test12!

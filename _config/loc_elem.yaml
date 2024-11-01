@@ -1,0 +1,16 @@
+url :
+  landingPage : https://www.newspapers.com/
+
+landing_page :
+  signInLink : id:signinlink
+
+login_modal :
+  unameTxtBar : id:username
+  pwdTxtBar : id:password
+  loginBtn : //button[@type="submit" and contains(.,'Sign in')]
+  errMsg :
+    wrongLogin : //div[@class="icon-error" and text()="There is a problem with your email/password. "]
+    missingLogin : //div[@class="icon-error" and text()="Missing email or password"]
+
+results :
+  successLogin : //a[@href="https://www.newspapers.com/profile/lourdestest"]
